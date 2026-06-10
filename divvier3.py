@@ -1,10 +1,10 @@
 '''
-Snapshot2: 
+Snapshot3: (Just corrected a typo in this comment).
 Realised can use iterative superset generation approach to
 make a collection of subcollections that do include replicates.
 It will, however, have replicate subcollections, but though 
 inefficient I think it will at least allow me to make 
-a definitive split for the 'Divvier' problem, to replace
+a deterministic split for the 'Divvier' problem, to replace
 the original tool which used random sampling to process
 larger arrays, so could not guarentee an optimal split.
 TODO: Tidy up, make an array -> best split function, GII.
